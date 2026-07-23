@@ -1,54 +1,25 @@
 {
-  "name": "Zenith Empire - CHM 102 Study System",
-  "short_name": "Zenith Empire",
-  "description": "Premium study system for CHM 102 organic chemistry and physical chemistry.",
-  "start_url": ".",
+  "name": "Zenith Empire (BIO 102)",
+  "short_name": "Zenith BIO 102",
+  "description": "Zenith Empire Academic Series — BIO 102 Study App for FUAHSE 100-level students",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#0A0F1D",
-  "theme_color": "#0A0F1D",
+  "background_color": "#080C14",
+  "theme_color": "#080C14",
   "orientation": "portrait",
   "icons": [
-    {
-      "src": "favicon-16.png",
-      "sizes": "16x16",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "favicon-32.png",
-      "sizes": "32x32",
-      "type": "image/png",
-      "purpose": "any"
-    },
     {
       "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any"
+      "purpose": "any maskable"
     },
     {
       "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "icon-maskable-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "maskable"
-    },
-    {
-      "src": "icon-maskable-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
-    },
-    {
-      "src": "apple-touch-icon.png",
-      "sizes": "180x180",
-      "type": "image/png",
-      "purpose": "any"
+      "purpose": "any maskable"
     }
   ]
 }
